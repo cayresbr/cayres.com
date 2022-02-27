@@ -1,1 +1,1 @@
-alert("Gostaria de aprender com o melhor?");
+alert("Gostaria de aprender a ser safado de verdade?");

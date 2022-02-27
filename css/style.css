@@ -29,6 +29,7 @@ section {
     background-image: url('../images/people.jpg');
     background-size: cover;
     overflow: hidden;
+    height: 600px;
 }
 
 .formContainer {
