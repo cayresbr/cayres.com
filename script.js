@@ -1,1 +1,0 @@
-alert("Gostaria de ganhar dinheiro sem trabalhar???")
